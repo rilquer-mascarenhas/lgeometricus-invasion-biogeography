@@ -1,2 +1,1 @@
-# lgeometricus-invasion-biogeography
-Invasion biogeography of L. geometricus
+# Invasion biogeography of *L. geometricus*
